@@ -43,7 +43,7 @@ I build data and ML systems end-to-end: Power BI / DAX / SQL for analytics, and 
 - **[nlptextcleaning](https://github.com/knurlybekov/nlptextcleaning)** — Document-level semantic news classification with noisy-label auditing.
 
 ### 🌍 GIS & Web Apps
-- **[ToolApp](https://github.com/knurlybekov/ToolApp)** — Flask GIS dashboard tracking tools, employees, and work zones on a Folium map with Plotly usage reports (Azure SQL).
+- **[ToolApp (Workforce & Equipment Tracking Dashboard)](https://github.com/knurlybekov/ToolApp)** — Flask GIS dashboard tracking tools, employees, and work zones on a Folium map with Plotly usage reports (Azure SQL).
 - **[ToolFool](https://github.com/knurlybekov/ToolFool)** — Equipment-renting system visualizing geographic locations and tracking tool usage history, deployed to Azure App Service.
 
 ### 🔌 Backend & Systems
