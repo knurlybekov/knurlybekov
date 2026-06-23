@@ -64,14 +64,6 @@ English (full professional) · Russian (native/bilingual)
 
 ---
 
-## 📈 GitHub Stats
-
-[![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=knurlybekov&show_icons=true&theme=default)](https://github.com/knurlybekov)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knurlybekov&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=webCopyAI&hide=css)](https://github.com/knurlybekov)
-
----
-
 ## 📫 Connect
 
 - LinkedIn: [karennurlybekov](https://www.linkedin.com/in/karennurlybekov/)
