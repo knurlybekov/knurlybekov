@@ -14,7 +14,7 @@ I build data and ML systems end-to-end: Power BI / DAX / SQL for analytics, and 
 
 **Analytics / BI:** Power BI · DAX · SQL (Snowflake, Oracle) · ETL · Medallion / dimensional modeling · statistical testing (Mann–Whitney U, Chi-Square) · pandas · NumPy · Plotly
 
-**Languages:** Python · C# · Java · JavaScript · PHP · SQL · HTML
+**Languages:** Python · C# · C++ · Java · JavaScript · PHP · SQL
 
 **ML / AI:** PyTorch · TensorFlow / Keras · scikit-learn · Hugging Face · Mistral-7B (QLoRA/LoRA) · CUDA · DCGAN · LSTM · TF-IDF · OpenCV
 
