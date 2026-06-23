@@ -6,7 +6,7 @@ I build data and ML systems end-to-end: Power BI / DAX / SQL for analytics, and 
 
 🔭 Recent work: **NovaMart** — an end-to-end e-commerce analytics project (166K+ records, Snowflake → Power BI) that quantified a $2.01M operations-improvement opportunity with statistically validated findings.
 
-💼 **Open to work** — any data role: Data Analyst · BI / Analytics Engineer · Data Scientist · Machine Learning Engineer · Data Engineer (On-site · Hybrid · Remote)
+💼 **Open to work** — Data Analyst · BI Analyst · Analytics Engineer roles — I turn messy data into decisions with SQL, Power BI/DAX, and Python, and build ML when the problem needs it. (On-site · Hybrid · Remote)
 
 ---
 
