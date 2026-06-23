@@ -1,12 +1,12 @@
 # Hi, I'm Karen Nurlybekov 👋
 
-**Junior Data Analyst · Computing Science grad (TRU, April 2026)** — Kamloops, BC, Canada 🇨🇦
+**Junior Data Analyst · Computing Science grad (TRU, April 2026)** — Victoria, BC, Canada 🇨🇦
 
 I build data and ML systems end-to-end: Power BI / DAX / SQL for analytics, and Python for everything from fine-tuned LLMs to multi-agent automation pipelines. I care about the part most projects skip — making something work for *someone else*, not just on my own notebook.
 
 🔭 Recent work: **NovaMart** — an end-to-end e-commerce analytics project (166K+ records, Snowflake → Power BI) that quantified a $2.01M operations-improvement opportunity with statistically validated findings.
 
-💼 **Open to work** — any data role: Data Analyst · BI / Analytics Engineer · Data Scientist · Data Engineer (On-site · Hybrid · Remote)
+💼 **Open to work** — any data role: Data Analyst · BI / Analytics Engineer · Data Scientist · Machine Learning Engineer · Data Engineer (On-site · Hybrid · Remote)
 
 ---
 
@@ -18,7 +18,7 @@ I build data and ML systems end-to-end: Power BI / DAX / SQL for analytics, and 
 
 **ML / AI:** PyTorch · TensorFlow / Keras · scikit-learn · Hugging Face · Mistral-7B (QLoRA/LoRA) · CUDA · DCGAN · LSTM · TF-IDF · OpenCV
 
-**LLM / Agents:** Anthropic Claude (Opus/Sonnet/Haiku) · OpenAI GPT-4o · LangChain · LangGraph · n8n · RAG (pgvector)
+**LLM / Agents:** Anthropic Claude (Opus/Sonnet/Haiku) · OpenAI GPT-5.5 · LangChain · LangGraph · n8n · RAG (pgvector)
 
 **Backend / Web:** Django REST Framework · FastAPI · Flask · Supabase · PostgreSQL · Docker
 
