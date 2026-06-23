@@ -47,7 +47,6 @@ I build data and ML systems end-to-end: Power BI / DAX / SQL for analytics, and 
 
 ### 🔌 Backend & Systems
 - **[socialnetworkBackend](https://github.com/knurlybekov/socialnetworkBackend)** — Subscription-based social network backend (Django REST Framework, PostgreSQL, social OAuth, AWS, Docker).
-- **[cammouflagebackend](https://github.com/knurlybekov/cammouflagebackend)** — Django REST service that extracts a dominant color palette from an environment photo via K-Means in Lab color space (OpenCV, scikit-learn, AWS S3).
 - **[webCopyAI](https://github.com/knurlybekov/webCopyAI)** — Converts a static HTML/CSS/JS site into an installable Joomla 4 template, via CLI or a Django web UI.
 
 ---
@@ -69,7 +68,7 @@ English (full professional) · Russian (native/bilingual)
 
 [![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=knurlybekov&show_icons=true&theme=default)](https://github.com/knurlybekov)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knurlybekov&layout=compact)](https://github.com/knurlybekov)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knurlybekov&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=webCopyAI&hide=css)](https://github.com/knurlybekov)
 
 ---
 
