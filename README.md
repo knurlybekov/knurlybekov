@@ -35,6 +35,7 @@ I build data and ML systems end-to-end: Power BI / DAX / SQL for analytics, and 
 - **[timeseries_forecasting](https://github.com/knurlybekov/timeseries_forecasting)** — *Multi-Model Stock Forecasting with Monte Carlo Risk Analysis* — benchmarks regressors and classifiers on S&P 500 returns, statistically testing whether any signal beats an Efficient-Market baseline. Ships with an FVG paper-trading bot (Alpaca) and an AWS Lambda S3 backup pipeline.
 
 ### 🤖 Machine Learning & AI
+- **RAG Platform** *(TRU Capstone)* — RAG platform using Django + Supabase + pgvector + OpenAI.
 - **[llm_classifier_interface](https://github.com/knurlybekov/llm_classifier_interface)** — News classifier: TF-IDF shortlister + fine-tuned Mistral-7B (QLoRA) inference, served via a Django REST API with a web UI. The hybrid serving stack cut inference cost while holding accuracy (0.82 macro F1, beating a Random Forest baseline).
 - **AI-Powered Document Automation (n8n)** — Multi-agent pipeline orchestrating Claude + GPT-4o mini to turn a job description into a tailored, fact-checked resume and cover letter, with a deterministic "lie detector" audit layer and full application tracking.
 - **[mousedynamics](https://github.com/knurlybekov/mousedynamics)** / **[keyboarddynamics](https://github.com/knurlybekov/keyboarddynamics)** — Behavioral-biometric bot detection from mouse and keystroke dynamics, with leakage-free participant-level evaluation.
