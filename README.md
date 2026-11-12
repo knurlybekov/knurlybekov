@@ -1,6 +1,6 @@
 # Karen (Carl) Nurlybekov
 
-Computing Science graduate (TRU, April 2026) in Victoria, BC. I build Python and Django systems that other people run: a document pipeline a client adopted, a gait-analysis web app with paying users, and before that a 16-month government service desk. Looking for junior data/BI analyst, IT support / systems analyst, or junior developer roles, remote in Canada or on Vancouver Island.
+Computing Science graduate (TRU, April 2026) in Victoria, BC. I build Python and Django systems that other people run: a document pipeline a client adopted, a gait-analysis web app with Stripe subscriptions, and before that a 16-month government service desk. Looking for junior data/BI analyst, IT support / systems analyst, or junior developer roles, remote in Canada or on Vancouver Island.
 
 ## Current work
 
@@ -15,11 +15,11 @@ Computing Science graduate (TRU, April 2026) in Victoria, BC. I build Python and
 | [novamart-analytics](https://github.com/knurlybekov/novamart-analytics) | E-commerce operations analysis: 166K+ records through a Medallion pipeline in Snowflake, hypothesis-tested bottlenecks, 5-page Power BI dashboard | Snowflake, SQL, Power BI, DAX, Python |
 | [llm_classifier_interface](https://github.com/knurlybekov/llm_classifier_interface) | News classifier: TF-IDF shortlist + fine-tuned Mistral-7B (QLoRA) behind a REST API; 0.82 macro F1 against a Random Forest baseline | PyTorch, Hugging Face, Django REST |
 | [timeseries_forecasting](https://github.com/knurlybekov/timeseries_forecasting) | S&P 500 forecasting benchmarked against an efficient-market baseline, Monte Carlo risk, paper-trading bot | scikit-learn, Alpaca, AWS Lambda |
-| [ToolApp](https://github.com/knurlybekov/ToolApp) | Tools, employees and work zones on a Folium/Leaflet map with Plotly usage reports; built for the ACRES competition brief | Flask, Azure SQL, Folium, Plotly |
+| [ToolApp](https://github.com/knurlybekov/ToolApp) | Tools, employees and work zones on a Folium/Leaflet map with Plotly usage reports; built for the Acres Enterprises Industry Innovation Competition (TRU, 2023) | Flask, Azure SQL, Folium, Plotly |
 | [socialnetworkBackend](https://github.com/knurlybekov/socialnetworkBackend) | Subscription social-network API with social OAuth | Django REST Framework, PostgreSQL, Docker |
 | [HelpDesk](https://github.com/knurlybekov/HelpDesk) | IT help-desk ticketing desktop app with email notifications and service-quality reporting (diploma project) | C#/.NET WinForms |
 
-Capstone (private, client code): led a 4-person team building a multi-agent RAG pipeline that turns long-form regulatory documents into machine-readable rulesets for Innomergence Solutions; delivered on the semester deadline and adopted by the client, which led to the contract above.
+Capstone (private, client code): led a 4-person team building a multi-agent RAG pipeline for emergency-management regulatory documents, turning them into machine-readable rulesets for Innomergence Solutions; delivered on the semester deadline and adopted by the client, which led to the contract above.
 
 ## Skills
 
@@ -31,7 +31,7 @@ Capstone (private, client code): led a 4-person team building a multi-agent RAG 
 
 ## Education
 
-B.Sc. Computing Science, Thompson Rivers University (2021–2026). Diploma in Computer Technology & Software, Turan College (with honours). English and Russian.
+B.Sc. Computing Science, Thompson Rivers University (2021–2026); UREAP undergraduate research award, Dean's List. Diploma in Computer Technology & Software, Turan College (with honours). English and Russian.
 
 ## Contact
 
