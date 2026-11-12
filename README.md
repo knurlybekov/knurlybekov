@@ -1,72 +1,38 @@
-# Hi, I'm Karen Nurlybekov 👋
+# Karen (Carl) Nurlybekov
 
-**Junior Data Analyst · Computing Science grad (TRU, April 2026)** — Victoria, BC, Canada 🇨🇦
+Computing Science graduate (TRU, April 2026) in Victoria, BC. I build Python and Django systems that other people run: a document pipeline a client adopted, a gait-analysis web app with paying users, and before that a 16-month government service desk. Looking for junior data/BI analyst, IT support / systems analyst, or junior developer roles, remote in Canada or on Vancouver Island.
 
-I build data and ML systems end-to-end: Power BI / DAX / SQL for analytics, and Python for everything from fine-tuned LLMs to multi-agent automation pipelines. I care about the part most projects skip — making something work for *someone else*, not just on my own notebook.
+## Current work
 
-🔭 Recent work: **NovaMart** — an end-to-end e-commerce analytics project (166K+ records, Snowflake → Power BI) that quantified a $2.01M operations-improvement opportunity with statistically validated findings.
+- **Software Developer (Contract), Innomergence Solutions** (emergency and disaster management consultancy), May 2026 – present. Django 6 email-evidence system (Postfix → Maildir → workers that parse, de-duplicate and tag mail against a per-tenant taxonomy), a multi-tenant emergency-plan generator with Postgres row-level security and pgvector hybrid search, deployed as a Coolify Docker Compose stack with pg_dump backups. Private repository.
+- **Software Developer, Walking Reset AI**, Jul 2026 – present. [walkingreset.app](https://walkingreset.app): a phone video of someone walking becomes a written gait report. MediaPipe pose estimation, schema-validated Claude tool calls, Django/Celery/Postgres on Azure Container Apps, Stripe subscriptions, English/Russian/German. Private repository.
 
-💼 **Open to work** — Data Analyst · BI Analyst · Analytics Engineer roles — I turn messy data into decisions with SQL, Power BI/DAX, and Python, and build ML when the problem needs it. (On-site · Hybrid · Remote)
+## Selected public repositories
 
----
+| Repo | What it is | Stack |
+|---|---|---|
+| [knowledgebase](https://github.com/knurlybekov/knowledgebase) | Permission-aware knowledge assistant over Google Drive / SharePoint: hybrid retrieval with cited answers, agentic deep investigation, verified records | Django, PostgreSQL + pgvector, Celery, HTMX |
+| [novamart-analytics](https://github.com/knurlybekov/novamart-analytics) | E-commerce operations analysis: 166K+ records through a Medallion pipeline in Snowflake, hypothesis-tested bottlenecks, 5-page Power BI dashboard | Snowflake, SQL, Power BI, DAX, Python |
+| [llm_classifier_interface](https://github.com/knurlybekov/llm_classifier_interface) | News classifier: TF-IDF shortlist + fine-tuned Mistral-7B (QLoRA) behind a REST API; 0.82 macro F1 against a Random Forest baseline | PyTorch, Hugging Face, Django REST |
+| [timeseries_forecasting](https://github.com/knurlybekov/timeseries_forecasting) | S&P 500 forecasting benchmarked against an efficient-market baseline, Monte Carlo risk, paper-trading bot | scikit-learn, Alpaca, AWS Lambda |
+| [ToolApp](https://github.com/knurlybekov/ToolApp) | Tools, employees and work zones on a Folium/Leaflet map with Plotly usage reports; built for the ACRES competition brief | Flask, Azure SQL, Folium, Plotly |
+| [socialnetworkBackend](https://github.com/knurlybekov/socialnetworkBackend) | Subscription social-network API with social OAuth | Django REST Framework, PostgreSQL, Docker |
+| [HelpDesk](https://github.com/knurlybekov/HelpDesk) | IT help-desk ticketing desktop app with email notifications and service-quality reporting (diploma project) | C#/.NET WinForms |
 
-## 🛠️ Tech Stack
+Capstone (private, client code): led a 4-person team building a multi-agent RAG pipeline that turns long-form regulatory documents into machine-readable rulesets for Innomergence Solutions; delivered on the semester deadline and adopted by the client, which led to the contract above.
 
-**Analytics / BI:** Power BI · DAX · SQL (Snowflake, Oracle) · ETL · Medallion / dimensional modeling · statistical testing (Mann–Whitney U, Chi-Square) · pandas · NumPy · Plotly
+## Skills
 
-**Languages:** Python · C# · C++ · Java · JavaScript · PHP · SQL
+**Data and BI:** SQL (Snowflake, PostgreSQL, Azure SQL, SQL Server), Power BI and DAX, pandas, dimensional and Medallion modelling, hypothesis testing (Mann–Whitney U, chi-square)
+**Backend:** Python, Django and Django REST Framework, Flask, Celery/Redis, PostgreSQL with pgvector, Docker Compose, Linux VPS deployment, Azure Container Apps
+**ML and LLMs:** PyTorch, scikit-learn, Hugging Face, QLoRA fine-tuning, RAG with hybrid retrieval, Anthropic and OpenAI APIs with schema-validated tool calls, n8n automation
+**IT support:** ITIL-style ticketing (OTRS), Active Directory and Exchange, Windows fleet support; 98% first-contact resolution across a 400-device government fleet
+**Also:** C#, JavaScript, Folium/Leaflet web maps
 
-**ML / AI:** PyTorch · TensorFlow / Keras · scikit-learn · Hugging Face · Mistral-7B (QLoRA/LoRA) · CUDA · DCGAN · LSTM · TF-IDF · OpenCV
+## Education
 
-**LLM / Agents:** Anthropic Claude (Opus/Sonnet/Haiku) · OpenAI GPT-5.5 · LangChain · LangGraph · n8n · RAG (pgvector)
+B.Sc. Computing Science, Thompson Rivers University (2021–2026). Diploma in Computer Technology & Software, Turan College (with honours). English and Russian.
 
-**Backend / Web:** Django REST Framework · FastAPI · Flask · Supabase · PostgreSQL · Docker
+## Contact
 
-**Cloud / Data Platforms:** AWS · Azure · Snowflake · Supabase
-
-**GIS:** Folium · geographic information systems
-
----
-
-## 📌 Selected Projects
-
-### 📊 Data Analytics & BI
-- **[novamart-analytics](https://github.com/knurlybekov/novamart-analytics)** — End-to-end e-commerce operations analysis: 166K+ records traced through a Medallion (Bronze→Silver→Gold) Snowflake pipeline, bottlenecks proven with statistical hypothesis testing, and a $2.01M improvement opportunity surfaced in a 5-page interactive Power BI dashboard.
-- **[timeseries_forecasting](https://github.com/knurlybekov/timeseries_forecasting)** — *Multi-Model Stock Forecasting with Monte Carlo Risk Analysis* — benchmarks regressors and classifiers on S&P 500 returns, statistically testing whether any signal beats an Efficient-Market baseline. Ships with an FVG paper-trading bot (Alpaca) and an AWS Lambda S3 backup pipeline.
-
-### 🤖 Machine Learning & AI
-- **RAG Platform** *(TRU Capstone)* — RAG platform using Django + Supabase + pgvector + OpenAI.
-- **[llm_classifier_interface](https://github.com/knurlybekov/llm_classifier_interface)** — News classifier: TF-IDF shortlister + fine-tuned Mistral-7B (QLoRA) inference, served via a Django REST API with a web UI. The hybrid serving stack cut inference cost while holding accuracy (0.82 macro F1, beating a Random Forest baseline).
-- **AI-Powered Document Automation (n8n)** — Multi-agent pipeline orchestrating Claude + GPT-4o mini to turn a job description into a tailored, fact-checked resume and cover letter, with a deterministic "lie detector" audit layer and full application tracking.
-- **[mousedynamics](https://github.com/knurlybekov/mousedynamics)** / **[keyboarddynamics](https://github.com/knurlybekov/keyboarddynamics)** — Behavioral-biometric bot detection from mouse and keystroke dynamics, with leakage-free participant-level evaluation.
-- **[vladlen](https://github.com/knurlybekov/vladlen)** — TensorFlow/Keras DCGAN turning Soviet-era propaganda posters into 128×128 abstract artworks.
-- **[nlptextcleaning](https://github.com/knurlybekov/nlptextcleaning)** — Document-level semantic news classification with noisy-label auditing.
-
-### 🌍 GIS & Web Apps
-- **[ToolApp (Workforce & Equipment Tracking Dashboard)](https://github.com/knurlybekov/ToolApp)** — Flask GIS dashboard tracking tools, employees, and work zones on a Folium map with Plotly usage reports (Azure SQL).
-- **[ToolFool](https://github.com/knurlybekov/ToolFool)** — Equipment-renting system visualizing geographic locations and tracking tool usage history, deployed to Azure App Service.
-
-### 🔌 Backend & Systems
-- **[socialnetworkBackend](https://github.com/knurlybekov/socialnetworkBackend)** — Subscription-based social network backend (Django REST Framework, PostgreSQL, social OAuth, AWS, Docker).
-- **[webCopyAI](https://github.com/knurlybekov/webCopyAI)** — Converts a static HTML/CSS/JS site into an installable Joomla 4 template, via CLI or a Django web UI.
-
----
-
-## 🎓 Education
-
-- **Thompson Rivers University** — B.Sc. Computing Science (Sep 2021 – Apr 2026). Capstone: RAG platform with Django + Supabase + pgvector + OpenAI. Coursework: Data Mining & BI, Machine Learning, Applied AI, Database Systems, Behavioral Biometrics, Software Architecture, IoT.
-- **Turan College** — Diploma in Computer Technology & Software (graduated with honors).
-
-## 📜 Certifications
-- **Fundamentals of Building AI Agents** — Coursera (Jun 2026) — LangChain, LangGraph
-
-## 🌐 Languages
-English (full professional) · Russian (native/bilingual)
-
----
-
-## 📫 Connect
-
-- LinkedIn: [karennurlybekov](https://www.linkedin.com/in/karennurlybekov/)
-- GitHub: [@knurlybekov](https://github.com/knurlybekov)
-- Email: nurlybekov.karen@gmail.com
+[LinkedIn](https://www.linkedin.com/in/karennurlybekov/) · nurlybekov.karen@gmail.com · Victoria, BC
