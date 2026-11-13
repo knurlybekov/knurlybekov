@@ -4,7 +4,7 @@ Computing Science graduate (TRU, April 2026) in Victoria, BC. I build Python and
 
 ## Current work
 
-- **Software Developer (Contract), Innomergence Solutions** (emergency and disaster management consultancy), May 2026 – present. Django 6 email-evidence system (Postfix → Maildir → workers that parse, de-duplicate and tag mail against a per-tenant taxonomy), a multi-tenant emergency-plan generator with Postgres row-level security and pgvector hybrid search, deployed as a Coolify Docker Compose stack with pg_dump backups. Private repository.
+- **Software Developer (Contract), (emergency and disaster management consultancy), May 2026 – present. Django 6 email-evidence system (Postfix → Maildir → workers that parse, de-duplicate and tag mail against a per-tenant taxonomy), a multi-tenant emergency-plan generator with Postgres row-level security and pgvector hybrid search, deployed as a Coolify Docker Compose stack with pg_dump backups. Private repository.
 - **Software Developer, Walking Reset AI**, Jul 2026 – present. [walkingreset.app](https://walkingreset.app): a phone video of someone walking becomes a written gait report. MediaPipe pose estimation, schema-validated Claude tool calls, Django/Celery/Postgres on Azure Container Apps, Stripe subscriptions, English/Russian/German. Private repository.
 
 ## Selected public repositories
@@ -31,7 +31,7 @@ Capstone (private, client code): led a 4-person team building a multi-agent RAG 
 
 ## Education
 
-B.Sc. Computing Science, Thompson Rivers University (2021–2026); UREAP undergraduate research award, Dean's List. Diploma in Computer Technology & Software, Turan College (with honours). English and Russian.
+Bachelor of Computing Science, Thompson Rivers University (2021–2026); UREAP undergraduate research award, Dean's List. Diploma in Computer Technology & Software, Turan College (with honours). English and Russian.
 
 ## Contact
 
